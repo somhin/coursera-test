@@ -18,7 +18,7 @@ section {
 	width: 93%;
   	margin-right: auto;
  	margin-left: auto;
- 	margin-bottom: 15px;
+ 	margin-bottom: 30px;
 }
 
 #chicken, #beef, #sushi {
@@ -50,7 +50,6 @@ p {
 }
 
 
-
 /*responsive framwork*/
 .row {
 	width: 100%;
@@ -75,6 +74,7 @@ p {
 	.col-md-12 {
 		width: 100%;
 	}
+
 }
 
 /*responsive small*/
