@@ -15,7 +15,7 @@ h1 {
 section {
 	background-color: lightgrey;
 	border: 2px solid black;
-	width: 93%;
+	width: 90%;
   	margin-right: auto;
  	margin-left: auto;
  	margin-bottom: 30px;
@@ -78,6 +78,9 @@ p {
 	}
 	.col-md-12 {
 		width: 100%;
+	}
+	#ssushi{
+		width: 95%;
 	}
 
 }
