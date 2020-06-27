@@ -20,8 +20,10 @@ section {
  	margin-left: auto;
  	margin-bottom: 30px;
  	position: relative;
- 	overflow: auto;
+	overflow: auto;
 }
+
+
 
 #chicken, #beef, #sushi {
 	float: right;
@@ -51,6 +53,7 @@ p {
 	margin: 0;
 	font-weight: bold;
 }
+
 
 
 /*responsive framwork*/
