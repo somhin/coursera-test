@@ -9,6 +9,7 @@
   background-color: #F42C04;
 }
 
+
 .nav-item {
   text-align: center;
 }
@@ -27,6 +28,22 @@ body {
   background-color: #EFF6E0;
 }
 
+#back-top {
+  padding: 30px 0;
+  text-align: center;
+  background-color: #EFF6E0;
+}
+
+#back-top:hover {
+  background-color: #D2D8C6;
+}
+
+.card-img-top {
+    max-height: 600px;
+    max-width: 100%;
+    object-fit: cover;
+}
+
 /* adjustable/////////////////////////////////////////////////////////////// */
 #main-tile {
   margin-top: 30px;
@@ -43,8 +60,21 @@ body {
   margin-bottom: 14px;
 }
 
+
+/* footer/////////////////////////////////////////////////////////////////// */
+#foot-div {
+  text-align: center;
+  padding: 10px 0;
+  color: white;
+}
 /* responsive md */
 
 /* responsive sm */
 
 /* responsive xs */
+@media (max-width: 576px) {
+  #main-tile {
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+}
